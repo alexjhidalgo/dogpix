@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+/* .hidden {
+    display: none;
+} */
+.imagen {
+    max-width: 250px;
+    max-height: 250px;
+}
